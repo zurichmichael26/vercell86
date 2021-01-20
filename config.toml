@@ -1,0 +1,4 @@
+baseURL = "https://quotesbroomark.vercel.app"
+languageCode = "en-us"
+title = "Happy and Famous Quotes 2021"
+theme = "tale-hugo-master"
